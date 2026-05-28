@@ -92,3 +92,6 @@ sqlite3 data/graduate_outcomes.db < sql/analysis_queries.sql
 - Built an end-to-end graduate outcomes analytics project using Python, SQL, and dashboard design to compare salary and employment outcomes across fields of study.
 - Created reusable SQL queries and Python visualisations to identify high-income fields, employment-risk areas, and long-term income growth patterns.
 - Developed an executive-style dashboard framework translating graduate labour-market data into actionable education and career insights.
+
+## Data Source Note:
+This repository contains a portfolio dataset structured around publicly documented measures from the New Zealand Tertiary Education Commission (TEC) post-study outcomes framework. The included dataset is for demonstration and portfolio purposes. The project can be adapted to use official TEC datasets where available.
