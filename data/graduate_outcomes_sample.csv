@@ -1,0 +1,51 @@
+field_of_study,field_group,qualification_level,years_after_graduation,median_annual_income_nzd,employment_rate_pct,further_study_rate_pct,jobseeker_rate_pct,overseas_rate_pct,data_type
+Medicine,Health,Bachelor's degree / Level 7,1,79300,74.8,36.8,2.9,9.6,Demo sample dataset - replace with TEC XLSX for official analysis
+Medicine,Health,Bachelor's degree / Level 7,3,95900,86.4,24.9,1.6,11.9,Demo sample dataset - replace with TEC XLSX for official analysis
+Medicine,Health,Bachelor's degree / Level 7,5,108700,87.3,18.3,0.7,11.3,Demo sample dataset - replace with TEC XLSX for official analysis
+Medicine,Health,Bachelor's degree / Level 7,7,121700,89.5,14.4,0.7,13.2,Demo sample dataset - replace with TEC XLSX for official analysis
+Medicine,Health,Bachelor's degree / Level 7,9,136200,92.7,12.1,0.5,15.7,Demo sample dataset - replace with TEC XLSX for official analysis
+Engineering and Related Technologies,STEM,Bachelor's degree / Level 7,1,59200,67.3,40.5,2.9,9.5,Demo sample dataset - replace with TEC XLSX for official analysis
+Engineering and Related Technologies,STEM,Bachelor's degree / Level 7,3,71400,80.8,28.0,2.0,12.2,Demo sample dataset - replace with TEC XLSX for official analysis
+Engineering and Related Technologies,STEM,Bachelor's degree / Level 7,5,80500,82.3,19.6,1.5,13.2,Demo sample dataset - replace with TEC XLSX for official analysis
+Engineering and Related Technologies,STEM,Bachelor's degree / Level 7,7,92700,85.3,17.9,1.4,13.1,Demo sample dataset - replace with TEC XLSX for official analysis
+Engineering and Related Technologies,STEM,Bachelor's degree / Level 7,9,100000,86.3,17.3,1.4,14.4,Demo sample dataset - replace with TEC XLSX for official analysis
+Information Technology,STEM,Bachelor's degree / Level 7,1,56500,66.4,37.2,3.5,10.8,Demo sample dataset - replace with TEC XLSX for official analysis
+Information Technology,STEM,Bachelor's degree / Level 7,3,69800,74.7,25.6,2.6,12.4,Demo sample dataset - replace with TEC XLSX for official analysis
+Information Technology,STEM,Bachelor's degree / Level 7,5,77400,79.7,18.7,1.7,13.8,Demo sample dataset - replace with TEC XLSX for official analysis
+Information Technology,STEM,Bachelor's degree / Level 7,7,89000,82.9,17.2,1.8,14.0,Demo sample dataset - replace with TEC XLSX for official analysis
+Information Technology,STEM,Bachelor's degree / Level 7,9,96400,87.3,14.0,1.9,13.6,Demo sample dataset - replace with TEC XLSX for official analysis
+Management and Commerce,Business,Bachelor's degree / Level 7,1,51700,63.1,41.6,3.7,7.8,Demo sample dataset - replace with TEC XLSX for official analysis
+Management and Commerce,Business,Bachelor's degree / Level 7,3,61800,72.5,31.8,2.8,10.6,Demo sample dataset - replace with TEC XLSX for official analysis
+Management and Commerce,Business,Bachelor's degree / Level 7,5,69900,77.4,24.4,2.3,13.5,Demo sample dataset - replace with TEC XLSX for official analysis
+Management and Commerce,Business,Bachelor's degree / Level 7,7,79100,80.5,19.2,2.0,14.2,Demo sample dataset - replace with TEC XLSX for official analysis
+Management and Commerce,Business,Bachelor's degree / Level 7,9,85000,81.4,18.3,1.9,16.0,Demo sample dataset - replace with TEC XLSX for official analysis
+Education,Public Services,Bachelor's degree / Level 7,1,47300,70.4,33.6,2.9,9.6,Demo sample dataset - replace with TEC XLSX for official analysis
+Education,Public Services,Bachelor's degree / Level 7,3,60300,82.8,22.2,2.4,11.3,Demo sample dataset - replace with TEC XLSX for official analysis
+Education,Public Services,Bachelor's degree / Level 7,5,65700,84.0,16.1,2.4,12.8,Demo sample dataset - replace with TEC XLSX for official analysis
+Education,Public Services,Bachelor's degree / Level 7,7,76500,86.9,10.6,1.8,15.4,Demo sample dataset - replace with TEC XLSX for official analysis
+Education,Public Services,Bachelor's degree / Level 7,9,84600,87.6,11.7,0.9,16.8,Demo sample dataset - replace with TEC XLSX for official analysis
+Architecture and Building,Built Environment,Bachelor's degree / Level 7,1,50500,60.5,38.3,4.1,9.3,Demo sample dataset - replace with TEC XLSX for official analysis
+Architecture and Building,Built Environment,Bachelor's degree / Level 7,3,56700,71.1,25.7,3.4,10.5,Demo sample dataset - replace with TEC XLSX for official analysis
+Architecture and Building,Built Environment,Bachelor's degree / Level 7,5,68400,73.8,20.6,3.0,11.8,Demo sample dataset - replace with TEC XLSX for official analysis
+Architecture and Building,Built Environment,Bachelor's degree / Level 7,7,74800,80.0,15.1,2.5,14.9,Demo sample dataset - replace with TEC XLSX for official analysis
+Architecture and Building,Built Environment,Bachelor's degree / Level 7,9,82700,78.1,13.4,2.4,16.5,Demo sample dataset - replace with TEC XLSX for official analysis
+Natural and Physical Sciences,STEM,Bachelor's degree / Level 7,1,44900,45.5,50.2,3.6,10.1,Demo sample dataset - replace with TEC XLSX for official analysis
+Natural and Physical Sciences,STEM,Bachelor's degree / Level 7,3,53700,56.8,39.6,2.4,12.1,Demo sample dataset - replace with TEC XLSX for official analysis
+Natural and Physical Sciences,STEM,Bachelor's degree / Level 7,5,60800,59.2,34.4,2.0,14.0,Demo sample dataset - replace with TEC XLSX for official analysis
+Natural and Physical Sciences,STEM,Bachelor's degree / Level 7,7,69900,62.2,31.3,1.8,13.8,Demo sample dataset - replace with TEC XLSX for official analysis
+Natural and Physical Sciences,STEM,Bachelor's degree / Level 7,9,75200,61.8,26.9,1.8,16.5,Demo sample dataset - replace with TEC XLSX for official analysis
+Society and Culture,Humanities,Bachelor's degree / Level 7,1,44200,55.0,44.7,4.7,12.5,Demo sample dataset - replace with TEC XLSX for official analysis
+Society and Culture,Humanities,Bachelor's degree / Level 7,3,53600,62.7,29.7,4.1,11.2,Demo sample dataset - replace with TEC XLSX for official analysis
+Society and Culture,Humanities,Bachelor's degree / Level 7,5,60900,68.7,24.9,3.3,11.5,Demo sample dataset - replace with TEC XLSX for official analysis
+Society and Culture,Humanities,Bachelor's degree / Level 7,7,66700,72.3,21.3,2.9,14.8,Demo sample dataset - replace with TEC XLSX for official analysis
+Society and Culture,Humanities,Bachelor's degree / Level 7,9,74300,71.7,19.2,3.0,15.1,Demo sample dataset - replace with TEC XLSX for official analysis
+"Agriculture, Environmental and Related Studies",Primary Industries,Bachelor's degree / Level 7,1,42900,58.8,37.3,4.3,8.4,Demo sample dataset - replace with TEC XLSX for official analysis
+"Agriculture, Environmental and Related Studies",Primary Industries,Bachelor's degree / Level 7,3,50800,67.8,24.6,3.3,15.3,Demo sample dataset - replace with TEC XLSX for official analysis
+"Agriculture, Environmental and Related Studies",Primary Industries,Bachelor's degree / Level 7,5,59700,72.7,19.1,2.9,12.7,Demo sample dataset - replace with TEC XLSX for official analysis
+"Agriculture, Environmental and Related Studies",Primary Industries,Bachelor's degree / Level 7,7,67000,72.8,13.7,2.3,14.7,Demo sample dataset - replace with TEC XLSX for official analysis
+"Agriculture, Environmental and Related Studies",Primary Industries,Bachelor's degree / Level 7,9,75300,73.2,12.8,1.8,15.7,Demo sample dataset - replace with TEC XLSX for official analysis
+Creative Arts,Creative,Bachelor's degree / Level 7,1,35100,48.1,36.7,6.6,10.5,Demo sample dataset - replace with TEC XLSX for official analysis
+Creative Arts,Creative,Bachelor's degree / Level 7,3,40500,57.3,26.1,5.8,13.5,Demo sample dataset - replace with TEC XLSX for official analysis
+Creative Arts,Creative,Bachelor's degree / Level 7,5,47800,58.0,20.2,5.3,13.9,Demo sample dataset - replace with TEC XLSX for official analysis
+Creative Arts,Creative,Bachelor's degree / Level 7,7,51700,63.8,16.6,5.4,13.4,Demo sample dataset - replace with TEC XLSX for official analysis
+Creative Arts,Creative,Bachelor's degree / Level 7,9,57400,65.3,13.2,5.4,16.6,Demo sample dataset - replace with TEC XLSX for official analysis
